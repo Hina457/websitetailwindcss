@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'CatamaranOmnisend';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL2NhdGFtYXJhbi92MTkvby0wYklwUW95WFFhMlJ4VDctNUI2Unl4czJFXzZuMWlQSGpkMWFvLndvZmY=) format('woff');
+}
+@font-face {
+  font-family: 'CatamaranOmnisend';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL2NhdGFtYXJhbi92MTkvby0wYklwUW95WFFhMlJ4VDctNUI2Unl4czJFXzZuMWlQSl9hMWFvLndvZmY=) format('woff');
+}
