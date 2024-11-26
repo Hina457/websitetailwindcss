@@ -2,7 +2,6 @@
 
 
 
-import Link from "next/link";
 import Image from "next/image";
 import pic1 from "@/components/public/pic1.webp"
 import pic2 from "@/components/public/pic2.webp"
@@ -13,10 +12,9 @@ import pic6 from "@/components/public/pic6.webp"
 import pic7 from "@/components/public/pic7.webp"
 import pic8 from "@/components/public/pic8.webp"
 import pic9 from "@/components/public/pic9.jpg"
-import pic10 from "@/components/public/pic10.webp"
 import pic11 from "@/components/public/pic11.webp"
 import pic12 from "@/components/public/pic12.webp"
-import logo from "@/components/public/logo.png"
+
 export default function MegaDeals(){
     return(
         <div>

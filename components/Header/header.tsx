@@ -1,10 +1,9 @@
 
-import { FaFacebook ,FaInstagram, FaTwitter,FaLinkedin }  from "react-icons/fa";
 import { AiOutlineShopping } from "react-icons/ai";
 import { Bs0CircleFill } from "react-icons/bs";
 import { CiSearch } from "react-icons/ci";
 import Link from "next/link"
-import Image from "next/image"
+
 export default function Header(){
     return(
         <div>

@@ -1,13 +1,12 @@
    
 
 
-import Link from "next/link"
+
 import Image from "next/image";
 import foun1 from "@/components/public/foun1.jpeg"
 import foun2 from "@/components/public/foun2.jpeg"
 import foun3 from "@/components/public/foun3.jpeg"
 import foun4 from "@/components/public/foun4.jpeg"
-import make2 from "@/components/public/make2.webp"
 import lip from "@/components/public/lipstick.jpeg"
 import lip2 from "@/components/public/lipsstick2.jpeg"
 import lip3 from "@/components/public/lipstick.jpeg"
@@ -19,7 +18,7 @@ import lip8 from "@/components/public/lipsstick2.jpeg"
 import Lipstick from "@/components/public/lipstick123.jpg"
 import banner4 from "@/components/public/banner4.jpeg"
 import shadow12 from "@/components/public/shadow456.jpg"
-import logo from "@/components/public/logo.png"
+
 
 export default function Makeup(){
     return(

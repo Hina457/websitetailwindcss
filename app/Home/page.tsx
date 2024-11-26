@@ -1,8 +1,6 @@
 
-import Link from "next/link";
+
 import Image from "next/image";
-import banner from "@/components/public/dr_rashel_banner1.webp";
-import logo from "@/components/public/logo.png"
 import banner2 from "@/components/public/banner2.webp"
 export default function Home(){
     return(
